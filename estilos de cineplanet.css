@@ -1,0 +1,85 @@
+@charset "uf-8";
+/*definir una regla para la imagen logo*/
+.rs{
+    width:100px;
+    height:200px;
+    margin:0 5px 0 5px;
+}
+
+#logo{
+    width:100%;
+    height:200px;
+    margin:20px 10px 20px 10px;
+}
+
+/*definir el menu princcipal*/
+.menu{
+    font-size: 20px;
+}
+
+/*definir regla para la etiqueta <a> evento hover*/
+a.hover{
+    font-size:34px;
+    font-style:italic;
+    color:blue;
+}
+/*cartelera una regla para imagenes de la pagina*/
+.cartelera{
+    width: 40%;
+    height: 150px;
+    margin:10px 10px 10px 10px;
+}
+
+/*proximos estrenos una regla para imagenes de la pagina*/
+.proximosestrenos{
+    width: 60%;
+    height: 150px;
+    margin:20px 20px 20px 20px;
+}
+
+/*combos una regla para imagenes de la pagina*/
+.combos{
+    width: 50%;
+    height: 160px;
+    margin:10px 10px 10px 10px;
+}
+
+/*sobre Cineplanet una regla para imagenes de la pagina*/
+.sobreCineplanet{
+    width: 60%;
+    height: 160px;
+    margin:20px 20px 20px 20px;
+}
+.border{
+    background-color: blue;
+    font-family: Arial;
+    bottom: 40px;
+    float: left;
+    color:blue
+}
+.pie{
+    font-size: 20px;
+    color:blue
+}
+.piedepagina{
+    font-family: Arial;
+    background-color: blue;
+}
+.encabezado{
+    background-color: blue;
+    color:blueviolet;
+    border: 25px solid blue;
+    font-size: 20px;
+}
+.plantilla{
+    font-family: verdana;
+    color: blue;
+    background-color: darkblue;
+    font-size: 20px;
+}
+.menu{
+    font-family: Arial;
+    font-size: 20px;
+    background-color: blue;
+    color: blueviolet;
+}
